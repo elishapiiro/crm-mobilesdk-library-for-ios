@@ -15,5 +15,6 @@
 @property (nonatomic, strong) NSString *mobilePhone;
 @property (nonatomic, strong) NSString *ssn;
 @property (nonatomic, strong) NSString *race;
+@property (nonatomic, strong) NSString *id;
 
 @end
