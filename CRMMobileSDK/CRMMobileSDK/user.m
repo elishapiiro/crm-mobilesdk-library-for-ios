@@ -12,5 +12,8 @@
 @property (nonatomic, strong) NSString *dateOfBirth;
 @property (nonatomic, strong) NSString *gender;
 @property (nonatomic, strong) NSString *occupation;
+@property (nonatomic, strong) NSString *mobilePhone;
+@property (nonatomic, strong) NSString *ssn;
+@property (nonatomic, strong) NSString *race;
 
 @end
